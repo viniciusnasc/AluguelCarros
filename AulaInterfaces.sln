@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AluguelCarros", "AluguelCar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFixacao", "ExercicioFixacao\ExercicioFixacao.csproj", "{A826A70D-E859-4594-833A-ADD992BB4A0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula", "Aula\Aula.csproj", "{4499EF39-0CE3-4292-AC64-D736E6796266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaIComparable", "AulaIComparable\AulaIComparable.csproj", "{8BEA9307-46B7-41E7-B09C-45D48350EF40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A826A70D-E859-4594-833A-ADD992BB4A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A826A70D-E859-4594-833A-ADD992BB4A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A826A70D-E859-4594-833A-ADD992BB4A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4499EF39-0CE3-4292-AC64-D736E6796266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4499EF39-0CE3-4292-AC64-D736E6796266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4499EF39-0CE3-4292-AC64-D736E6796266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4499EF39-0CE3-4292-AC64-D736E6796266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BEA9307-46B7-41E7-B09C-45D48350EF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BEA9307-46B7-41E7-B09C-45D48350EF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BEA9307-46B7-41E7-B09C-45D48350EF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BEA9307-46B7-41E7-B09C-45D48350EF40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
